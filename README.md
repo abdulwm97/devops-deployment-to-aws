@@ -10,7 +10,7 @@
 
 ## Connecing to VM on AWS
 - Paste pem file into the /.ssh folder
-- Make shure the instance is running
+- Make sure the instance is running
 - click on the instance
 - Use chmod to allow permissions to the pem file
 - Copy the command to ssh into the instance from aws website 
